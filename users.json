@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "60e09595f95242072c4d1849"
+  },
+  "username": "Test User1",
+  "password": "$2a$10$svALiXbfnWbxPUPSPzaTEe9NWUD9Eb6aIOQd/4SbDa1F6pbikyaH.",
+  "role": 0,
+  "createdAt": {
+    "$date": "2021-07-03T16:51:34.220Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-03T16:51:34.220Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e0aad9b42634045ca8f155"
+  },
+  "username": "Test User2",
+  "password": "$2a$10$svALiXbfnWbxPUPSPzaTEe9NWUD9Eb6aIOQd/4SbDa1F6pbikyaH.",
+  "role": 0,
+  "createdAt": {
+    "$date": "2021-07-03T16:51:34.220Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-03T16:51:34.220Z"
+  },
+  "__v": 0
+}]
